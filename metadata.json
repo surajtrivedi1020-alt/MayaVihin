@@ -1,0 +1,8 @@
+{
+  "name": "Copy of MAYAVIHIN Deepfake Detection System v23",
+  "description": "A state-of-the-art multi-agent AI system for detecting and explaining deepfake media across images, videos, and audio.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
